@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![HTML5](https://img.shields.io/badge/HTML5-ffb000?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-ffb000?style=for-the-badge&logo=css3&logoColor=black)
+![Canvas API](https://img.shields.io/badge/Canvas_API-ffb000?style=for-the-badge&logo=html5&logoColor=black)
+
+
