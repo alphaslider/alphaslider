@@ -5,3 +5,5 @@ Vibe Code in these languages  [![Google Chrome](https://img.shields.io/badge/Goo
 [![Web Audio API](https://img.shields.io/badge/Web%20Audio%20API-000000?style=for-the-badge&logo=web-audio-api&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
 
 [Omikuji 3 is live here!](https://alphaslider.github.io/Omikuji/)
+[SP-224 Pitch Shifter](https://alphaslider.github.io/SP224-Pitch-shifter/)
+
