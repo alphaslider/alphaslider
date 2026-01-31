@@ -9,10 +9,8 @@ Vibe Code in these languages <br>![Firefox](https://img.shields.io/badge/optimiz
 [Omikuji 3 is live here!](https://alphaslider.github.io/Omikuji/)
 <br>
 [SP-224 Pitch Shifter](https://alphaslider.github.io/SP224-Pitch-shifter/)
-
 <br>
-
-[HTML5 TAB SAMPLER - Sample from tabs]([https://alphaslider.github.io/SP224-Pitch-shifter/))
+[HTML5 TAB SAMPLER ](https://alphaslider.github.io/HTML5SAMPLER/)
 
  
 
