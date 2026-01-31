@@ -12,7 +12,7 @@ Vibe Code in these languages <br>![Firefox](https://img.shields.io/badge/optimiz
 
 <br>
 
-[HTML5 TAB SAMPLER - Sample from tabs]([https://alphaslider.github.io/SP224-Pitch-shifter/](https://alphaslider.github.io/HTML5SAMPLER/))
+[HTML5 TAB SAMPLER - Sample from tabs]([https://alphaslider.github.io/SP224-Pitch-shifter/))
 
  
 
