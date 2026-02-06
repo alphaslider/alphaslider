@@ -3,7 +3,7 @@
 <div align="center">
   <img src="YOUR_PIXEL_NINJA_URL_HERE" width="200" height="200" alt="Ninja Drum Machine Avatar" />
   
-  ### "Stealthy Code. Heavy Bass. Zero Latency."
+ 
 </div>
 
 ---
