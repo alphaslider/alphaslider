@@ -1,6 +1,6 @@
 The Pinned apps are designed and tested for chromebook and modern browser. You can sample, chop, pitch corrected bpm shift, sequence, mix and FX , and export full songs start to finish.
 
-Vibe Code in these languages <br>![Firefox](https://img.shields.io/badge/optimized%20for-Firefox-orange?style=flat-square&logo=firefox) [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://www.google.com/chrome/)
+  <br>![Firefox](https://img.shields.io/badge/optimized%20for-Firefox-orange?style=flat-square&logo=firefox) [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://www.google.com/chrome/)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
