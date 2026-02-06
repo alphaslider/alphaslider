@@ -1,4 +1,4 @@
-# 🥷 BEAT NINJA | Audio Architect
+# Vibe Code Based Web Audio Engineering and Interface Design
 
 <div align="center">
   <img src="YOUR_PIXEL_NINJA_URL_HERE" width="200" height="200" alt="Ninja Drum Machine Avatar" />
