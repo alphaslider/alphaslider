@@ -3,6 +3,9 @@
 <div align="center">
   <img src="nin.png" width="200" height="200" alt="MEGAMICRODAW Project Logo" />
 </div>
+<div align="center">
+  <img src="lazer.png"  alt="MEGAMICRODAW Project Logo" />
+</div>
 
 <hr />
 
