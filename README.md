@@ -13,6 +13,10 @@ Vibe Code in these languages <br>![Firefox](https://img.shields.io/badge/optimiz
 [HTML5 TAB SAMPLER ](https://alphaslider.github.io/HTML5SAMPLER/)
 <br>
 [Mega Micro Daw ](https://alphaslider.github.io/megamicrodaw/)
+<br>
+[LAZER BLADE WAVE EDIT ](https://alphaslider.github.io/LazerBlade3/)
+
+
 
  
 
