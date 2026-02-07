@@ -1,49 +1,41 @@
-<h1 align="center">Vibe Code Based Web Audio Engineering and Interface Design</h1>
+<h1 align="center">Mega Micro Music Tools</h1>
 
 <div align="center">
-  <img src="nin.png" width="200" height="200" alt="MEGAMICRODAW Project Logo" />
+  <img src="nin.png" width="200" height="200" alt="Logo" />
 </div>
 <div align="center">
-  <img src="lazer.png"  alt="MEGAMICRODAW Project Logo" />
+  <img src="lazer.png" alt="Lazer Logo" />
 </div>
 
 <hr />
 
-<h2>Technical Overview</h2>
+<h2>What is this?</h2>
 <p>
-  The MEGAMICRO suite is a collection of high-performance web applications optimized for <strong>ChromeOS</strong> and modern evergreen browsers. These tools facilitate a complete digital signal processing (DSP) workflow, including sampling, destructive waveform editing, real-time pitch manipulation, and multi-track sequencing.
+  A collection of simple, browser-based tools for making music. These apps are designed to be fast, lightweight, and easy to run on <strong>ChromeOS</strong> or any modern browser without needing to install anything.
 </p>
 
-<h3>Active Deployments</h3>
+<h3>The Apps</h3>
 <ul>
-  <li><strong><a href="https://alphaslider.github.io/megamicrodaw/">Mega Micro DAW</a></strong> – Integrated flagship production environment.</li>
-  <li><strong><a href="https://alphaslider.github.io/Omikuji/">Omikuji 3</a></strong> – Algorithmic randomization and pattern generation.</li>
-  <li><strong><a href="https://alphaslider.github.io/SP224-Pitch-shifter/">SP-224 Pitch Shifter</a></strong> – Real-time time-stretch and pitch-shift utility.</li>
-  <li><strong><a href="https://alphaslider.github.io/HTML5SAMPLER/">HTML5 Tab Sampler</a></strong> – Low-latency browser-based sampling interface.</li>
-  <li><strong><a href="https://alphaslider.github.io/LazerBlade3/">Lazer Blade Wave Edit</a></strong> – Surgical waveform editing and visualization.</li>
- <li><strong><a href="https://alphaslider.github.io/slicer/">S.L.I.C.E.R</a></strong> – Simple Linear Interface for Chopping and Export Rendering.</li>
- 
+  <li><strong><a href="https://alphaslider.github.io/megamicrodaw/">Mega Micro DAW</a></strong> – The main workstation for putting tracks together.</li>
+  <li><strong><a href="https://alphaslider.github.io/Omikuji/">Omikuji 3</a></strong> – A randomizer for generating new ideas and patterns.</li>
+  <li><strong><a href="https://alphaslider.github.io/SP224-Pitch-shifter/">SP-224 Pitch Shifter</a></strong> – For changing the pitch and speed of your sounds.</li>
+  <li><strong><a href="https://alphaslider.github.io/HTML5SAMPLER/">HTML5 Tab Sampler</a></strong> – A quick way to play samples in your browser tabs.</li>
+  <li><strong><a href="https://alphaslider.github.io/LazerBlade3/">Lazer Blade Wave Edit</a></strong> – A tool for looking at and cutting up waveforms.</li>
+  <li><strong><a href="https://alphaslider.github.io/slicer/">S.L.I.C.E.R</a></strong> – A simple interface for chopping samples and saving them.</li>
 </ul>
 
 <hr />
 
-<h2>Development Stack</h2>
-<p>System architecture is prioritized for low-latency audio scheduling and thread-safe state management.</p>
-
-<p>
-  <img src="https://img.shields.io/badge/optimized%20for-Firefox-orange?style=flat-square&logo=firefox" alt="Firefox" />
-  <a href="https://www.google.com/chrome/">
-    <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Google Chrome" />
-  </a>
-</p>
+<h2>How it's built</h2>
+<p>I use standard web tech to keep things fast and functional. No heavy frameworks or extra bloat—just clean code that plays audio well.</p>
 
 <table width="100%">
   <thead>
     <tr>
-      <th align="left">Core</th>
-      <th align="left">Markup</th>
+      <th align="left">Structure</th>
+      <th align="left">Style</th>
       <th align="left">Logic</th>
-      <th align="left">Signal Processing</th>
+      <th align="left">Sound</th>
     </tr>
   </thead>
   <tbody>
@@ -51,22 +43,21 @@
       <td><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></td>
       <td><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></td>
       <td><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></td>
-      <td><img src="https://img.shields.io/badge/Web%20Audio%20API-000000?style=for-the-badge&logo=web-audio-api&logoColor=white" alt="Web Audio API" /></td>
+      <td><strong>Web Audio API</strong></td>
     </tr>
   </tbody>
 </table>
 
 <hr />
 
-<h2>Engineering Standards</h2>
+<h2>The Rules</h2>
 <ul>
-  <li><strong>Mono Trigger Architecture:</strong> Enforced single-source triggering per track to prevent phase accumulation and signal smearing.</li>
-  <li><strong>Binary Serialization:</strong> Proprietary <code>.daw</code> session format utilizing binary sample bundling and JSON state mapping for 100% session persistence.</li>
-  <li><strong>Zero-Dependency Core:</strong> Pure vanilla implementation without external frameworks to ensure minimal overhead and long-term compatibility.</li>
+  <li><strong>Mono Triggering:</strong> Samples on the same track will never overlap; new triggers cut off the previous sound to keep the mix clean.</li>
+  <li><strong>Mixer & FX:</strong> Built-in mixer and FX loaders stay integrated for immediate sound shaping.</li>
+  <li><strong>Vanilla Code:</strong> No external dependencies. This ensures the tools work for a long time and load instantly.</li>
+  <li><strong>Portability:</strong> Uses a <code>.daw</code> file format to bundle your samples and project settings into one file.</li>
 </ul>
 
-
-
 <div align="right">
-  <p><sub>Build Status: Stable | Last Sync: 2026.02.06</sub></p>
+  <p><sub>Updated: 2026.02.07</sub></p>
 </div>
