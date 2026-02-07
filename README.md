@@ -21,6 +21,8 @@
   <li><strong><a href="https://alphaslider.github.io/SP224-Pitch-shifter/">SP-224 Pitch Shifter</a></strong> – Real-time time-stretch and pitch-shift utility.</li>
   <li><strong><a href="https://alphaslider.github.io/HTML5SAMPLER/">HTML5 Tab Sampler</a></strong> – Low-latency browser-based sampling interface.</li>
   <li><strong><a href="https://alphaslider.github.io/LazerBlade3/">Lazer Blade Wave Edit</a></strong> – Surgical waveform editing and visualization.</li>
+ <li><strong><a href="https://alphaslider.github.io/slicer/">S.L.I.C.E.R</a></strong> – Simple Linear Interface for Chopping and Export Rendering.</li>
+ 
 </ul>
 
 <hr />
