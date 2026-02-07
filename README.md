@@ -1,4 +1,4 @@
-<h1 align="center">Vibe Code: Simple Web Audio Tools</h1>
+<h1 align="center">Web Audio Engineering and Interface Design</h1>
 
 <div align="center">
   <img src="nin.png" width="200" height="200" alt="Logo" />
