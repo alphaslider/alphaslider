@@ -1,4 +1,4 @@
-<h1 align="center">Mega Micro Music Tools</h1>
+<h1 align="center">Vibe Code: Simple Web Audio Tools</h1>
 
 <div align="center">
   <img src="nin.png" width="200" height="200" alt="Logo" />
@@ -11,29 +11,29 @@
 
 <h2>What is this?</h2>
 <p>
-  A collection of simple, browser-based tools for making music. These apps are designed to be fast, lightweight, and easy to run on <strong>ChromeOS</strong> or any modern browser without needing to install anything.
+  The MEGAMICRO suite is a collection of simple, no-nonsense web apps for making music. They are built specifically for <strong>ChromeOS</strong> and modern browsers to be lightweight, fast, and easy to use. No big setups, just tools that work.
 </p>
 
-<h3>The Apps</h3>
+<h3>The Project List</h3>
 <ul>
-  <li><strong><a href="https://alphaslider.github.io/megamicrodaw/">Mega Micro DAW</a></strong> – The main workstation for putting tracks together.</li>
-  <li><strong><a href="https://alphaslider.github.io/Omikuji/">Omikuji 3</a></strong> – A randomizer for generating new ideas and patterns.</li>
-  <li><strong><a href="https://alphaslider.github.io/SP224-Pitch-shifter/">SP-224 Pitch Shifter</a></strong> – For changing the pitch and speed of your sounds.</li>
-  <li><strong><a href="https://alphaslider.github.io/HTML5SAMPLER/">HTML5 Tab Sampler</a></strong> – A quick way to play samples in your browser tabs.</li>
-  <li><strong><a href="https://alphaslider.github.io/LazerBlade3/">Lazer Blade Wave Edit</a></strong> – A tool for looking at and cutting up waveforms.</li>
-  <li><strong><a href="https://alphaslider.github.io/slicer/">S.L.I.C.E.R</a></strong> – A simple interface for chopping samples and saving them.</li>
+  <li><strong><a href="https://alphaslider.github.io/megamicrodaw/">Mega Micro DAW</a></strong> – A small-scale workstation for arranging tracks and samples.</li>
+  <li><strong><a href="https://alphaslider.github.io/Omikuji/">Omikuji 3</a></strong> – A random pattern generator for when you need a new spark.</li>
+  <li><strong><a href="https://alphaslider.github.io/SP224-Pitch-shifter/">SP-224 Pitch Shifter</a></strong> – A straightforward utility for time-stretching and shifting pitch.</li>
+  <li><strong><a href="https://alphaslider.github.io/HTML5SAMPLER/">HTML5 Tab Sampler</a></strong> – A quick-access sampler that lives in your browser tab.</li>
+  <li><strong><a href="https://alphaslider.github.io/LazerBlade3/">Lazer Blade Wave Edit</a></strong> – A simple tool for visualizing and trimming your audio files.</li>
+  <li><strong><a href="https://alphaslider.github.io/slicer/">S.L.I.C.E.R</a></strong> – A linear interface for chopping up sounds and rendering them out.</li>
 </ul>
 
 <hr />
 
-<h2>How it's built</h2>
-<p>I use standard web tech to keep things fast and functional. No heavy frameworks or extra bloat—just clean code that plays audio well.</p>
+<h2>How it works</h2>
+<p>The focus here is on <strong>Vanilla JS</strong> and <strong>HTML5</strong>. By avoiding heavy frameworks, these tools stay fast and won't break when the next big update rolls around.</p>
 
 <table width="100%">
   <thead>
     <tr>
-      <th align="left">Structure</th>
-      <th align="left">Style</th>
+      <th align="left">Core</th>
+      <th align="left">Markup</th>
       <th align="left">Logic</th>
       <th align="left">Sound</th>
     </tr>
@@ -50,14 +50,14 @@
 
 <hr />
 
-<h2>The Rules</h2>
+<h2>Design Choices</h2>
 <ul>
-  <li><strong>Mono Triggering:</strong> Samples on the same track will never overlap; new triggers cut off the previous sound to keep the mix clean.</li>
-  <li><strong>Mixer & FX:</strong> Built-in mixer and FX loaders stay integrated for immediate sound shaping.</li>
-  <li><strong>Vanilla Code:</strong> No external dependencies. This ensures the tools work for a long time and load instantly.</li>
-  <li><strong>Portability:</strong> Uses a <code>.daw</code> file format to bundle your samples and project settings into one file.</li>
+  <li><strong>Mono Triggering:</strong> Track cells and samples trigger one at a time. No overlapping, no messy phase issues—just a clean, single signal per track.</li>
+  <li><strong>Integrated Mixer:</strong> Includes a built-in mixer and FX loader so you can shape the sound as you go.</li>
+  <li><strong>Portable Projects:</strong> The <code>.daw</code> format saves everything (samples and settings) into one file for 100% session recall.</li>
+  <li><strong>Zero Dependencies:</strong> Pure code. No external libraries to load or manage.</li>
 </ul>
 
 <div align="right">
-  <p><sub>Updated: 2026.02.07</sub></p>
+  <p><sub>Build Status: Ready to Play | Last Sync: 2026.02.07</sub></p>
 </div>
