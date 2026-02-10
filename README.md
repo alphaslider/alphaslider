@@ -17,7 +17,7 @@
 <h3>The Project List</h3>
 <ul>
   <li><strong><a href="https://alphaslider.github.io/megamicrodaw/">Mega Micro DAW</a></strong> – A small-scale workstation for arranging tracks and samples.</li>
-  <li><strong><a href="  https://alphaslider.github.io/BapStep8/">BapStep8</a></strong> – An Ultra Lightweight Music proudction sampler and sequencer.</li>
+  <li><strong><a href="https://alphaslider.github.io/BapStep8/">BapStep8</a></strong> – An Ultra Lightweight Music proudction sampler and sequencer.</li>
   <li><strong><a href="https://alphaslider.github.io/SP224-Pitch-shifter/">SP-224 Pitch Shifter</a></strong> – A straightforward utility for time-stretching and shifting pitch.</li>
   <li><strong><a href="https://alphaslider.github.io/HTML5SAMPLER/">HTML5 Tab Sampler</a></strong> – A quick-access sampler that lives in your browser tab.</li>
   <li><strong><a href="https://alphaslider.github.io/LazerBlade3/">Lazer Blade Wave Edit</a></strong> – A simple tool for visualizing and trimming your audio files.</li>
