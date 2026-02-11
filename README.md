@@ -4,7 +4,7 @@
   <img src="nin.png" width="200" height="200" alt="Logo" />
 </div>
 <div align="center">
-  <img src="lazer.png" alt="Lazer Logo" />
+  <img src="bap.png" alt="Lazer Logo" />
 </div>
 
 <hr />
