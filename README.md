@@ -49,7 +49,7 @@
   </ul>
 
 <hr />
-  <h2>Modular Plugins</h2>
+  <h2>SP404 tribute Plugins for megamicro</h2>
 <p><a href="https://github.com/alphaslider/megamicrodaw/tree/main/plugins">Plugin Repository Source</a></p>
 <ul>
   <li>3bandisolator.js – Three-band frequency splitter for isolation.</li>
