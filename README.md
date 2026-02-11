@@ -15,14 +15,38 @@
 </p>
 
 <h3>The Project List</h3>
-<ul>
-  <li><strong><a href="https://alphaslider.github.io/megamicrodaw/">Mega Micro DAW</a></strong> – A small-scale workstation for arranging tracks and samples.</li>
-  <li><strong><a href="https://alphaslider.github.io/BapStep8/">BapStep8</a></strong> – An Ultra Lightweight Music proudction sampler and sequencer.</li>
-  <li><strong><a href="https://alphaslider.github.io/SP224-Pitch-shifter/">SP-224 Pitch Shifter</a></strong> – A straightforward utility for time-stretching and shifting pitch.</li>
-  <li><strong><a href="https://alphaslider.github.io/HTML5SAMPLER/">HTML5 Tab Sampler</a></strong> – A quick-access sampler that lives in your browser tab.</li>
-  <li><strong><a href="https://alphaslider.github.io/LazerBlade3/">Lazer Blade Wave Edit</a></strong> – A simple tool for visualizing and trimming your audio files.</li>
-  <li><strong><a href="https://alphaslider.github.io/slicer/">S.L.I.C.E.R</a></strong> – A linear interface for chopping up sounds and rendering them out.</li>
-</ul>
+<h2>Workstations</h2>
+  <ul>
+    <li>
+      <a class="project-link" href="https://alphaslider.github.io/megamicrodaw/">Mega Micro DAW</a> 
+      <span class="stats">(47 KB)</span>
+      <span class="desc">A lightweight beat-making environment featuring a traditional mixer architecture with FX strips, generative pattern tools, and support for 32 steps across 8 banks.</span>
+    </li>
+    <li>
+      <a class="project-link" href="https://alphaslider.github.io/BapStep8/">BapStep8</a>
+      <span class="desc">A lean 16-step sampler and sequencer built for a boom-bap workflow. Includes dedicated FX slots per track and mono-trigger logic for clean sample layering.</span>
+    </li>
+  </ul>
+
+  <h2>Utilities</h2>
+  <ul>
+    <li>
+      <a class="project-link" href="https://alphaslider.github.io/SP224-Pitch-shifter/">SP-224 Pitch Shifter</a>
+      <span class="desc">Focused pitch-corrected time stretching. Inspired by the grit and workflow of the Zoom ST-224 and Boss SP-202 hardware units.</span>
+    </li>
+    <li>
+      <a class="project-link" href="https://alphaslider.github.io/HTML5SAMPLER/">HTML5 Tab Sampler</a>
+      <span class="desc">Capture audio directly from a browser tab. Features four quality grades (from lo-fi to clean) with instant export.</span>
+    </li>
+    <li>
+      <a class="project-link" href="https://alphaslider.github.io/LazerBlade3/">Lazer Blade Wave Edit</a>
+      <span class="desc">A precise tool for visualizing and trimming audio loops via a zoomable canvas interface.</span>
+    </li>
+    <li>
+      <a class="project-link" href="https://alphaslider.github.io/slicer/">S.L.I.C.E.R</a>
+      <span class="desc">A linear interface for setting slice points and exporting chops as individual files or a ZIP archive.</span>
+    </li>
+  </ul>
 
 <hr />
 
