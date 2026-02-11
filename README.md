@@ -62,6 +62,39 @@
   <li>Voicetoskull.js – Experimental resonant filtering and modulation.</li>
   <li>Meter2.js – Visual signal analysis and peak monitoring.</li>
 </ul>
+<h2>Bapstep8 plugins</h2>
+<h2>Groove & Swing Engines</h2>
+<ul>
+  <li><a href="https://github.com/alphaslider/Omikuji/blob/main/plugins/DillaSwing.js">DillaSwing.js</a> – Adds humanized, unquantized "swing" timing to sequencer patterns.</li>
+  <li><a href="https://github.com/alphaslider/Omikuji/blob/main/plugins/MPC%20Groove%20js.js">MPC Groove js.js</a> – Replicates the classic hardware sequencer timing and shuffle.</li>
+  <li><a href="https://github.com/alphaslider/Omikuji/blob/main/plugins/Volcasample_swing.js">Volcasample_swing.js</a> – Emulates the specific rhythmic lilt of portable hardware samplers.</li>
+</ul>
+
+<h2>Synthesizers & Tone Generators</h2>
+<ul>
+  <li><a href="https://github.com/alphaslider/Omikuji/blob/main/plugins/kicksynth.js">kicksynth.js</a> – Sub-heavy bass drum generator built with pure oscillators.</li>
+  <li><a href="https://github.com/alphaslider/Omikuji/blob/main/plugins/snaresynth.js">snaresynth.js</a> – Generative snare engine using noise and filtered transients.</li>
+  <li><a href="https://github.com/alphaslider/Omikuji/blob/main/plugins/hat.js">hat.js</a> – High-frequency synthesis for hi-hats and metallic percussion.</li>
+  <li><a href="https://github.com/alphaslider/Omikuji/blob/main/plugins/pluck.js">pluck.js</a> – Karplus-Strong or physical modeling style string synthesis.</li>
+  <li><a href="https://github.com/alphaslider/Omikuji/blob/main/plugins/bell.js">bell.js</a> – Metallic, FM-style percussive bell tones.</li>
+  <li><a href="https://github.com/alphaslider/Omikuji/blob/main/plugins/beep.js">beep.js</a> – Simple, clean sine/square wave utility oscillator.</li>
+</ul>
+
+<h2>DSP Effects</h2>
+<ul>
+  <li><a href="https://github.com/alphaslider/Omikuji/blob/main/plugins/BitCrusher.js">BitCrusher.js</a> – Digital distortion via sample rate reduction and bit-depth clipping.</li>
+  <li><a href="https://github.com/alphaslider/Omikuji/blob/main/plugins/LushReverbPlugin.js">LushReverbPlugin.js</a> – A more dense, atmospheric spatial processor.</li>
+  <li><a href="https://github.com/alphaslider/Omikuji/blob/main/plugins/phaser.js">phaser.js</a> – Multi-stage phase shifting for sweeping, psychedelic textures.</li>
+  <li><a href="https://github.com/alphaslider/Omikuji/blob/main/plugins/chorus.js">chorus.js</a> – Delay-line based modulation for width and detuning.</li>
+  <li><a href="https://github.com/alphaslider/Omikuji/blob/main/plugins/isolator3.js">isolator3.js</a> – Specialized 3-band frequency isolation tool.</li>
+  <li><a href="https://github.com/alphaslider/Omikuji/blob/main/plugins/master.js">master.js</a> – Final stage signal processing and limiting for the master bus.</li>
+</ul>
+
+<h2>Experimental Tools</h2>
+<ul>
+  <li><a href="https://github.com/alphaslider/Omikuji/blob/main/plugins/raveslicer2.html">raveslicer2.html</a> – A standalone HTML utility for rhythmic breakbeat chopping.</li>
+</ul>
+
 <h2>How it works</h2>
 <p>The focus here is on <strong>Vanilla JS</strong> and <strong>HTML5</strong>. By avoiding heavy frameworks, these tools stay fast and won't break when the next big update rolls around.</p>
 
