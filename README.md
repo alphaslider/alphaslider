@@ -49,42 +49,19 @@
   </ul>
 
 <hr />
-<h2>Modular Plugins</h2>
-    <p>Modular DSP components used in Mega Micro DAW. <a href="https://github.com/alphaslider/megamicrodaw/tree/main/plugins" style="color: #0969da;">View Source on GitHub</a></p>
-
-    <div class="category-grid">
-        <div>
-            <h3>Dynamics & Tone</h3>
-            <ul>
-                <li><a class="project-link" href="https://github.com/alphaslider/megamicrodaw/blob/main/plugins/3bandisolator.js">3-Band Isolator</a><span class="desc">Frequency splitter for isolation.</span></li>
-                <li><a class="project-link" href="https://github.com/alphaslider/megamicrodaw/blob/main/plugins/LofiComp.js">Lofi Comp</a><span class="desc">Character-driven compression.</span></li>
-                <li><a class="project-link" href="https://github.com/alphaslider/megamicrodaw/blob/main/plugins/tone.js">Tone</a><span class="desc">Fundamental harmonic shaping.</span></li>
-            </ul>
-
-            <h3>Time & Space</h3>
-            <ul>
-                <li><a class="project-link" href="https://github.com/alphaslider/megamicrodaw/blob/main/plugins/reverb.js">Reverb</a><span class="desc">Algorithmic spatial depth.</span></li>
-                <li><a class="project-link" href="https://github.com/alphaslider/megamicrodaw/blob/main/plugins/Tape_Echo.js">Tape Echo</a><span class="desc">Vintage feedback and saturation.</span></li>
-                <li><a class="project-link" href="https://github.com/alphaslider/megamicrodaw/blob/main/plugins/dub.js">Dub Delay</a><span class="desc">Feedback-heavy performance delay.</span></li>
-            </ul>
-        </div>
-
-        <div>
-            <h3>Character & Lo-Fi</h3>
-            <ul>
-                <li><a class="project-link" href="https://github.com/alphaslider/megamicrodaw/blob/main/plugins/Hitachetapedeck.js">Hitache Tape</a><span class="desc">Hardware-style saturation.</span></li>
-                <li><a class="project-link" href="https://github.com/alphaslider/megamicrodaw/blob/main/plugins/Vinyl_Sim.js">Vinyl Sim</a><span class="desc">Mechanical noise and pitch flutter.</span></li>
-                <li><a class="project-link" href="https://github.com/alphaslider/megamicrodaw/blob/main/plugins/voicetoskull.js">VoiceToSkull</a><span class="desc">Experimental resonant filtering.</span></li>
-            </ul>
-
-            <h3>Performance</h3>
-            <ul>
-                <li><a class="project-link" href="https://github.com/alphaslider/megamicrodaw/blob/main/plugins/DJFXLooper.js">DJFX Looper</a><span class="desc">Live beat-repeats and rolls.</span></li>
-                <li><a class="project-link" href="https://github.com/alphaslider/megamicrodaw/blob/main/plugins/grossglitch.js">Gross Glitch</a><span class="desc">Time-domain buffer chopping.</span></li>
-                <li><a class="project-link" href="https://github.com/alphaslider/megamicrodaw/blob/main/plugins/meter2.js">Meter Pro</a><span class="desc">Visual signal level analysis.</span></li>
-            </ul>
-        </div>
-    </div>
+  <h2>Modular Plugins</h2>
+<p><a href="https://github.com/alphaslider/megamicrodaw/tree/main/plugins">Plugin Repository Source</a></p>
+<ul>
+  <li>3bandisolator.js – Three-band frequency splitter for isolation.</li>
+  <li>LofiComp.js – Character-driven compression and saturation.</li>
+  <li>Tape_Echo.js – Vintage feedback and tape loop simulation.</li>
+  <li>Vinyl_Sim.js – Surface noise and turntable pitch flutter.</li>
+  <li>DJFXLooper.js – Real-time beat repeats and performance rolls.</li>
+  <li>Grossglitch.js – Buffer chopping and rhythmic re-ordering.</li>
+  <li>Drumsynth.js – Minimalist engine for synthetic percussion.</li>
+  <li>Voicetoskull.js – Experimental resonant filtering and modulation.</li>
+  <li>Meter2.js – Visual signal analysis and peak monitoring.</li>
+</ul>
 <h2>How it works</h2>
 <p>The focus here is on <strong>Vanilla JS</strong> and <strong>HTML5</strong>. By avoiding heavy frameworks, these tools stay fast and won't break when the next big update rolls around.</p>
 
