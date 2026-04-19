@@ -16,8 +16,8 @@
 <h2>Workstations</h2>
   <ul>
       <li>
-      <a class="project-link" href=" https://alphaslider.github.io/nexus/">Nexus</a> 
-      <span class="stats">(47 KB)</span>
+      <a class="project-link" href="https://alphaslider.github.io/nexus/">Nexus</a> 
+      <span class="stats">HTML5 and Vanilla JS</span>
       <span class="desc">Groove Box and Sampler</span>
     </li>
     <li>
