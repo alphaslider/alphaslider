@@ -29,6 +29,10 @@
       <a class="project-link" href="https://alphaslider.github.io/BapStep8/">BapStep8</a>
       <span class="desc">A lean 16-step sampler and sequencer built for a boom-bap workflow. Includes dedicated FX slots per track and mono-trigger logic for clean sample layering.</span>
     </li>
+      <li>
+      <a class="project-link" href="https://alphaslider.github.io/Stasis/">Grand Unified Console</a>
+      <span class="desc">Navigate Web apps and Utilites with Iframes and slide in menu.</span>
+    </li>
   </ul>
 
   <h2>Utilities</h2>
