@@ -1,8 +1,6 @@
 <h1 align="center">Web Audio Engineering and Interface Design</h1>
 
-<div align="center">
-  <img src="nin.png" width="200" height="200" alt="Logo" />
-</div>
+ 
 <div align="center">
   <img src="bap.png" alt="Lazer Logo" />
 </div>
@@ -17,6 +15,11 @@
 <h3>The Project List</h3>
 <h2>Workstations</h2>
   <ul>
+      <li>
+      <a class="project-link" href=" https://alphaslider.github.io/nexus/">Nexus</a> 
+      <span class="stats">(47 KB)</span>
+      <span class="desc">Groove Box and Sampler</span>
+    </li>
     <li>
       <a class="project-link" href="https://alphaslider.github.io/megamicrodaw/">Mega Micro DAW</a> 
       <span class="stats">(47 KB)</span>
