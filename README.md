@@ -2,7 +2,7 @@
 
  
 <div align="center">
-  <img src="bap.png" alt="Lazer Logo" />
+  <img src="bap8.png" alt="Lazer Logo" />
 </div>
 
 <hr />
