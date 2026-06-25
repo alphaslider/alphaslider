@@ -39,18 +39,8 @@
   <ul>
        <li>
       <a class="project-link" href="https://alphaslider.github.io/samplecommannder/">Sample Commander</a>
-      <span class="desc">Focused pitch-corrected time stretching. Inspired by the grit and workflow of the Zoom ST-224 and Boss SP-202 hardware units.</span>
+      <span class="desc">Rapid Audio Browsing: Optimized virtualized lists that allow for near-instant navigation of thousands of samples without browser memory overhead.</span>
     </li>
-
-   Core Functionality
-Rapid Audio Browsing: Optimized virtualized lists that allow for near-instant navigation of thousands of samples without browser memory overhead.
-
-Real-Time Visualization: Instant waveform rendering on hover or selection, leveraging the Web Audio API for high-fidelity spectral feedback.
-
-Drag-and-Drop Organization: A highly responsive "workspace" UI where samples can be moved into custom project folders using native HTML5 drag-and-drop events.
-
-One-Click Zip Export: An automated process that gathers your organized selection and compiles a ready-to-download ZIP archive directly in the client browser, eliminating the need for server-side processing.
-
     <li>
       <a class="project-link" href="https://alphaslider.github.io/SP224-Pitch-shifter/">SP-224 Pitch Shifter</a>
       <span class="desc">Focused pitch-corrected time stretching. Inspired by the grit and workflow of the Zoom ST-224 and Boss SP-202 hardware units.</span>
