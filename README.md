@@ -37,6 +37,10 @@
 
   <h2>Utilities</h2>
   <ul>
+    <li>
+      <a class="project-link" href="https://alphaslider.github.io/wavetomp3/">Wav To Mp3 Converter</a>
+      <span class="desc">"Precision audio transcoding that preserves the integrity of your original signal. Our converter utilizes high-bitrate encoding and psychoacoustic modeling to ensure that your lossy MP3 output remains sonically indistinguishable from your high-resolution WAV source. Designed for producers who demand professional-grade quality without the compromise of traditional compression artifacts."</span>
+    </li>
        <li>
       <a class="project-link" href="https://alphaslider.github.io/samplecommannder/">Sample Commander</a>
       <span class="desc">Rapid Audio Browsing: Optimized virtualized lists that allow for near-instant navigation of thousands of samples without browser memory overhead.</span>
