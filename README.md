@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Web Audio Engineering & Interface Design</title>
+    
  
 </head>
 <body>
