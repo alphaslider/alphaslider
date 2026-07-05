@@ -3,13 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Web Audio Engineering & Interface Design</title>
-    <style>
-        body { font-family: sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; }
-        summary { cursor: pointer; font-weight: bold; padding: 10px; background: #f4f4f4; border-radius: 5px; margin-bottom: 5px; }
-        details { margin-bottom: 10px; border: 1px solid #ddd; padding: 5px; border-radius: 5px; }
-        .stats { font-size: 0.85em; color: #666; font-family: monospace; }
-        hr { border: 0; border-top: 1px solid #ccc; margin: 20px 0; }
-    </style>
+ 
 </head>
 <body>
 
