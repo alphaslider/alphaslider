@@ -2,8 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    
- 
+    <title>Web Audio Engineering and Interface Design</title>
 </head>
 <body>
 
@@ -24,7 +23,8 @@
 <details open>
     <summary>Core Sequencing Environments</summary>
     <ul>
-        <li><a href="https://alphaslider.github.io/nexus/">Nexus</a>: A dedicated groove box and sampler interface. <span class="stats">[HTML5/Vanilla JS]</span></li>
+        <li><a href="https://alphaslider.github.io/Four-Track-Web-Audio-Groove-Box-/">AZ505 Four Track</a>: A high-fidelity, 4-track groove box designed for rapid loop-based composition. <span class="stats">[HTML5/Vanilla JS]</span></li>
+        <li><a href="https://alphaslider.github.io/nexus/">Nexus</a>: A dedicated groove box and sampler interface.</li>
         <li><a href="https://alphaslider.github.io/megamicrodaw/">Mega Micro DAW</a>: A comprehensive (47 KB) beat-making environment. Features a traditional mixer architecture with FX strips, generative pattern sequencing, and 8-bank support for complex arrangements.</li>
         <li><a href="https://alphaslider.github.io/BapStep8/">BapStep8</a>: A specialized 16-step sampler sequencer optimized for boom-bap production, featuring mono-trigger logic for surgical sample layering.</li>
     </ul>
@@ -92,7 +92,7 @@
 </table>
 
 <div align="right">
-    <p><sub>Build Status: Ready to Play | Last Sync: 2026.02.07</sub></p>
+    <p><sub>Build Status: Ready to Play | Last Sync: 2026.07.08</sub></p>
 </div>
 
 </body>
