@@ -2,7 +2,8 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ 
 </head>
 <body>
 
@@ -23,6 +24,7 @@
 <details open>
     <summary>Core Sequencing Environments</summary>
     <ul>
+        <li><a href="https://alphaslider.github.io/az505-sx-cybernetic-sheceduler/">AZ505-SX Cybernetic Scheduler</a>: A resilient, dual-layer groovebox featuring a 4-track sampler and a 4-voice drum synth with per-step reverb and velocity parameter locks.</li>
         <li><a href="https://alphaslider.github.io/Four-Track-Web-Audio-Groove-Box-/">AZ505 Four Track</a>: A high-fidelity, 4-track groove box designed for rapid loop-based composition. <span class="stats">[HTML5/Vanilla JS]</span></li>
         <li><a href="https://alphaslider.github.io/nexus/">Nexus</a>: A dedicated groove box and sampler interface.</li>
         <li><a href="https://alphaslider.github.io/megamicrodaw/">Mega Micro DAW</a>: A comprehensive (47 KB) beat-making environment. Features a traditional mixer architecture with FX strips, generative pattern sequencing, and 8-bank support for complex arrangements.</li>
@@ -92,7 +94,7 @@
 </table>
 
 <div align="right">
-    <p><sub>Build Status: Ready to Play | Last Sync: 2026.07.08</sub></p>
+    <p><sub>Build Status: Ready to Play | Last Sync: 2026.07.13</sub></p>
 </div>
 
 </body>
