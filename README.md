@@ -10,7 +10,7 @@
 <h1 align="center">Web Audio Engineering and Interface Design</h1>
 
 <div align="center">
-    <img src="505.png" alt="Lazer Logo" />
+    <img src="505sx.png" alt="Lazer Logo" />
 </div>
 
 <hr />
