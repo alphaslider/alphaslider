@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
- 
+    <title>MEGAMICRO Suite</title>
 </head>
 <body>
 
@@ -20,8 +20,16 @@
     The <strong>MEGAMICRO</strong> suite is a collection of high-performance, browser-native audio applications. Engineered for ChromeOS and modern web environments, these tools prioritize low-latency signal processing, minimal memory overhead, and a "zero-dependency" philosophy to ensure session longevity and performance stability.
 </p>
 
-<h2>Production Workstations</h2>
+<h2>Linear Recording Workstations</h2>
 <details open>
+    <summary>Digital Audio Workstations</summary>
+    <ul>
+        <li><a href="https://alphaslider.github.io/4-track-studio-recorder/">4-Track Studio Recorder</a>: An ultra-lightweight (39 KB), zero-dependency digital audio workstation. Features a state-optimized pure Canvas engine, non-linear cross-track clip dragging, latency compensation, and full session state management for surgical, hardware-style multi-track recording.</li>
+    </ul>
+</details>
+
+<h2>Production Workstations</h2>
+<details>
     <summary>Core Sequencing Environments</summary>
     <ul>
         <li><a href="https://alphaslider.github.io/az505-sx-cybernetic-sheceduler/">AZ505-SX Cybernetic Scheduler</a>: A resilient, dual-layer groovebox featuring a 4-track sampler and a 4-voice drum synth with per-step reverb and velocity parameter locks.</li>
