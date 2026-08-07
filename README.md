@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MEGAMICRO Suite</title>
+   
 </head>
 <body>
 
@@ -20,11 +20,12 @@
     The <strong>MEGAMICRO</strong> suite is a collection of high-performance, browser-native audio applications. Engineered for ChromeOS and modern web environments, these tools prioritize low-latency signal processing, minimal memory overhead, and a "zero-dependency" philosophy to ensure session longevity and performance stability.
 </p>
 
-<h2>Linear Recording Workstations</h2>
+<h2>Linear Recording & Video Workstations</h2>
 <details open>
-    <summary>Digital Audio Workstations</summary>
+    <summary>Workstations</summary>
     <ul>
         <li><a href="https://alphaslider.github.io/4-track-studio-recorder/">4-Track Studio Recorder</a>: An ultra-lightweight (39 KB), zero-dependency digital audio workstation. Features a state-optimized pure Canvas engine, non-linear cross-track clip dragging, latency compensation, and full session state management for surgical, hardware-style multi-track recording.</li>
+        <li><a href="https://alphaslider.github.io/video_editor/">NLE-LITE Video Editor</a>: A zero-dependency, browser-native non-linear video workstation built on pure HTML5 Canvas. Features multi-track timeline sequencing, real-time FX mixing, stroboscope chopping, custom text stamps, and hardware-accelerated WebM exports.</li>
     </ul>
 </details>
 
@@ -102,7 +103,7 @@
 </table>
 
 <div align="right">
-    <p><sub>Build Status: Ready to Play | Last Sync: 2026.07.13</sub></p>
+    <p><sub>Build Status: Ready to Play | Last Sync: 2026.08.07</sub></p>
 </div>
 
 </body>
