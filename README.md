@@ -24,7 +24,7 @@
 <details open>
     <summary>Workstations</summary>
     <ul>
-        <li><a href="https://alphaslider.github.io/4-track-studio-recorder/">4-Track Studio Recorder</a>: An ultra-lightweight (39 KB), zero-dependency digital audio workstation. Features a state-optimized pure Canvas engine, non-linear cross-track clip dragging, latency compensation, and full session state management for surgical, hardware-style multi-track recording.</li>
+        <li><a href="https://alphaslider.github.io/cooltoolspro2/">4-Track Studio Recorder</a>: An ultra-lightweight (39 KB), zero-dependency digital audio workstation. Features a state-optimized pure Canvas engine, non-linear cross-track clip dragging, latency compensation, and full session state management for surgical, hardware-style multi-track recording.With inbuilt wave editor for surgical nuance</li>
         <li><a href="https://alphaslider.github.io/video_editor/">NLE-LITE Video Editor</a>: A zero-dependency, browser-native non-linear video workstation built on pure HTML5 Canvas. Features multi-track timeline sequencing, real-time FX mixing, stroboscope chopping, custom text stamps, and hardware-accelerated WebM exports.</li>
     </ul>
 </details>
