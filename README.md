@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   
 </head>
 <body>
 
@@ -52,6 +51,7 @@
 <details>
     <summary>Processing & Conversion</summary>
     <ul>
+        <li><a href="https://alphaslider.github.io/superconverter/">Super Converter</a>: Universal multi-format transcoding engine with dedicated support for fixing and converting WebM imports alongside standard audio/video codecs.</li>
         <li><a href="https://alphaslider.github.io/wavetomp3/">Wav To Mp3 Converter</a>: High-bitrate transcoding engine utilizing psychoacoustic modeling for professional-grade audio fidelity.</li>
         <li><a href="https://alphaslider.github.io/samplecommannder/">Sample Commander</a>: Optimized asset management utilizing virtualized lists for instant navigation of large sample libraries.</li>
     </ul>
